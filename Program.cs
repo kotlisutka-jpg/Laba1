@@ -112,7 +112,7 @@ namespace GeneticSearch
             using (StreamReader reader = new StreamReader(commandsFilename))
             using (StreamWriter writer = new StreamWriter(outputFilename, false, Encoding.UTF8))
             {
-                writer.WriteLine("Ivan Ivanov");
+                writer.WriteLine("Romanchuk Margarita");
                 writer.WriteLine("Genetic Searching");
 
                 int commandCounter = 1;

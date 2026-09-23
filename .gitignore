@@ -1,7 +1,5 @@
-[Bb]in/
-[Obj]/
-.vs/
-.idea/
-.vscode/
-*.suo
-*.user
+obj/
+bin/
+*.sh
+point.cpp
+sequences.txt
